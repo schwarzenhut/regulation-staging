@@ -19,3 +19,6 @@ return array(
     'Braintree' => array($vendorDir . '/braintree/braintree_php/lib'),
     '' => array($baseDir . '/app/code', $baseDir . '/generated/code'),
 );
+
+
+// More test notes here
